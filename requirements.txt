@@ -2,4 +2,4 @@ pandas
 matplotlib
 seaborn
 streamlit
-scipy
+
